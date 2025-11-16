@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Main TPB Torrent file URL
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/joex92/TBP-Torrent-File-URL-Linker/
 // @version      2025-11-15
 // @description  Get the direct URL to the torrent file from itorrents.org!
 // @author       JoeX92
