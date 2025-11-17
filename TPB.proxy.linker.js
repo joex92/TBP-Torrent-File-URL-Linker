@@ -8,6 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=thepiratebay.org
 // @grant        GM.setClipboard
 // @grant        GM_openInTab
+// @license      MIT
 // ==/UserScript==
 
 (function() {
